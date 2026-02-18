@@ -92,7 +92,7 @@ NetraHook is the **Best Free Undetected Cheat** for **Hearts of Iron IV (HOI4)**
 
 ## 🔗 Official Links
 
-- **Website**: [https://netrahook.dev](https://netrahook.dev)
+- **Website**: [NetraHook](https://netrahook.dev)
 - **Discord**: [Join Community](https://discord.gg/7NQvT7vk3n)
 - **Telegram**: [@Netrahook_bot](https://t.me/Netrahook_bot)
 
